@@ -1,7 +1,9 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Conceitos do Node.js
+  Conceitos do ReactJS
+  <br>
+  <img alt="ReactJS" width="150px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 </h3>
 
 <h4 align="center">
